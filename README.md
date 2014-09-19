@@ -1,7 +1,7 @@
 FindWords
 =========
 
-This program will seart through a text file and using a search tree, notify you if the word exists in the text file or not. 
+This program will search through a text file and using a search tree, notify you if the word exists in the text file or not. 
 
 This was done by first creating a Binary Search Tree (BST) and an Adelson-Velskii and Landis' (AVL) tree. 
 The Binary Search Tree tree was modified to contain the height of each node in the tree, similar to the AVL tree.
